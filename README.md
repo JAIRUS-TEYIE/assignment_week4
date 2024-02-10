@@ -1,6 +1,6 @@
 # assignment_week4
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,7 +44,7 @@
     and exiticing updates and news!
 
  <p id="para1">THANK YOU ALL!</p>    
-    </p>  
+     
     
 <p>
 <button type="button=https://www.operamini.com">Go to website </button> 
