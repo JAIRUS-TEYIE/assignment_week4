@@ -59,7 +59,7 @@
 </p>
 
  <p id="para1">THANK YOU ALL!</p>    
-     
+    
 <div class="first">
   <a href="https://www.opera.com/" download>
     <button style="background: cyan; border-radius: 10px;" type="button">Download OperaMini</button>
