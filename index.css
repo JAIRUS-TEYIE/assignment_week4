@@ -10,12 +10,12 @@
 }
 
 .container{
-    height:730px;
+    height:750px;
     width: 400px;
     border-color:green;
     border-style: solid;
     border-radius: 20px;
-    background-color: khaki;
+    background-color:rgba(255, 166, 0, 0.575);
     margin: auto;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;  
@@ -56,6 +56,8 @@
     color: blue;
     font-family:"sofia";
     font-style: inherit;
+    background-color:khaki;
+    text-align: center;
 }
 
 #para3{

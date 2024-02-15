@@ -30,36 +30,42 @@
 </div>   
     <p id="para1">
         Opera Mini is a mobile web browser that was developed by <span id="bckgrnd" >opera software.</span><br>
-      It was first released in 2006 for java ME platform. In 2009, Opera Mini was
+        It was first released in 2006 for java ME platform. In 2009, Opera Mini was
         released for Android and BlackBerry OS. Since then, Opera Mini has been 
         released for many other mobile platforms, including iOS, Windows Phone,
         Symbian, and Bada 
-        
-</p>
+    </p>
+
+
 <p id="para2">
         Its advantages include;
 </p>
-    <div class="div1" >
+
+
+<div class="div1" >
         <ul>
             <li>Has high speed</li>
             <li>The browser uses a server-side compression technique that reduces the<br> amount of data sent over the network. </li>
             <li>It has a data saving mode that can reduce data usage by up to 90%. </li>
             <li>Small in size.</li>
         </ul>
-    </div>
-</p>
+</div>
+
         
- <p class="div2"> 
+<p class="div2"> 
     For more information visit our webste at <a href="https://www.google.com/search?client=firefox-b-d&q=opera+mini">www.operamini.com</a> for references
     and exiticing updates and news!
 
+</p>
+
  <p id="para1">THANK YOU ALL!</p>    
      
-    
-
-<button type="button=https://www.operamini.com">Go to website </button> 
+<div class="first">
+  <a href="https://www.opera.com/" download>
+    <button style="background: cyan; border-radius: 10px;" type="button">Download OperaMini</button>
+  </a>
 </div>
-    
 
+</div>
 </body>
 </html>
