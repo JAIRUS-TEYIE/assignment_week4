@@ -30,7 +30,7 @@
 </div>   
     <p id="para1">
         Opera Mini is a mobile web browser that was developed by <span id="bckgrnd" >opera software.</span><br>
-        It was first released in 2006 for java ME platform. In 2009, Opera Mini was
+      It was first released in 2006 for java ME platform. In 2009, Opera Mini was
         released for Android and BlackBerry OS. Since then, Opera Mini has been 
         released for many other mobile platforms, including iOS, Windows Phone,
         Symbian, and Bada 
