@@ -1,6 +1,6 @@
 # assignment_week4
 
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,17 +52,12 @@
  <p class="div2"> 
     For more information visit our webste at <a href="https://www.google.com/search?client=firefox-b-d&q=opera+mini">www.operamini.com</a> for references
     and exiticing updates and news!
-</p>
 
- <p id="para3">THANK YOU ALL!</p>    
-    </p>  
-  
-  <div class="first">
-     <a href="https://www.opera.com/" download>
-    <button style="background: cyan; border-radius: 20px;" type="button">Download Opera Mini</button>
-    </a>
-  </div>
+ <p id="para1">THANK YOU ALL!</p>    
+     
+    
 
+<button type="button=https://www.operamini.com">Go to website </button> 
 </div>
     
 
