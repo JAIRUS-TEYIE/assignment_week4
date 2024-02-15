@@ -47,7 +47,7 @@
             <li>Small in size.</li>
         </ul>
     </div>
-</p>
+
         
  <p class="div2"> 
     For more information visit our webste at <a href="https://www.google.com/search?client=firefox-b-d&q=opera+mini">www.operamini.com</a> for references
